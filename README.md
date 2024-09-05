@@ -23,4 +23,3 @@ API: http://api.github.com/users/<user_name>/followers
 ```angular2html
 npm start
 ```
-
